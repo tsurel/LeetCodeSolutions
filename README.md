@@ -1,2 +1,2 @@
 # LeetCodeSolutions
-Solutions to daily LeetCode challengeS
+Solutions to daily LeetCode challenges
